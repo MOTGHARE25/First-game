@@ -1,0 +1,15 @@
+:root{
+  --bg1:#1b1f3b;
+  --bg2:#5b2e7e;
+  --accent:#ffb86b;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,system-ui,Arial;background:linear-gradient(180deg,var(--bg1),var(--bg2));color:#fff;display:flex;align-items:center;justify-content:center;height:100vh}
+.container{width:520px;text-align:center}
+h1{margin:6px 0;font-size:22px}
+h2{margin:0 0 12px;color:var(--accent)}
+canvas{background:linear-gradient(180deg,rgba(255,255,255,0.02),rgba(0,0,0,0.08));border-radius:8px;display:block;margin:0 auto;box-shadow:0 8px 24px rgba(0,0,0,0.5)}
+.hud{display:flex;justify-content:space-between;padding:8px 6px;color:#fff;max-width:480px;margin:8px auto}
+.controls{font-size:13px;opacity:0.9}
+.branding{margin-top:8px;font-weight:700;color:#ffd9b3}
+.center-msg{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,0.45);padding:12px 18px;border-radius:8px}
