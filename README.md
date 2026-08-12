@@ -1,27 +1,13 @@
-Ultimate Anime Game - Flappy Clone
-
-Description
-- Simple Flappy Bird-style game with 5 levels and anime branding.
-
-Run (Local)
-- Open [index.html](index.html) in a modern browser.
-- Or run a local static server (recommended) and open http://localhost:8000
-
-Local server examples:
-```bash
-# Python 3
-python -m http.server 8000
-
-# Node (http-server)
-npx http-server -p 8000
-```
-
-Web hosting
-- To publish on GitHub Pages: create a new repo, push this folder's contents to the `main` branch, then enable GitHub Pages from repository settings (use root or `gh-pages` branch).
-- After publishing, the game will be available at `https://<your-username>.github.io/<repo-name>/`.
-
-Controls
-- Click or press Space to flap. Touch the canvas on mobile.
-
-Credits
-- Branding: Mr. Dhananjay Motghare
+Project Title: Flappy Bird - Web Edition
+Developer: Dhananjay Motghare
+About This Game:
+Welcome to the official repository of my very first game project!
+This is a web-based tribute to the legendary Flappy Bird, meticulously crafted to bring the ultimate test of patience and skill directly to your browser.
+I embarked on this development journey to challenge myself and learn the core mechanics of game design, turning a simple concept into an interactive reality.
+Technologies Used:
+To make this game run smoothly on the web, I used a blend of versatile technologies:
+ * Python: For logic and functionality.
+ * Java: For enhancing user interaction.
+ * HTML & CSS: For the structure and vibrant visual styling.
+Thank You!
+Thank you for stopping by to check out my work. I hope you enjoy playing this game as much as I enjoyed building it!
